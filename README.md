@@ -1,4 +1,6 @@
-### Hi there! 👋 I am Diane! 🥎🏋🏽‍♀️☕️🍻
+<h1 align="center">
+Hi there! 👋 I am Diane! 🥎🏋🏽‍♀️☕️🍻
+<h1/>
 
 <!--
 **dianeyeo/DianeYeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
