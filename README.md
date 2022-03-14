@@ -1,6 +1,7 @@
 <h1 align="center">
 Hi there!👋 I am Diane! 🥎🏋🏽‍♀️☕️🍻 
-<h1/>       
+</h1>
+      
 ### About Me ...
 - 🎒 I'm a Final Year **Business Analytics** student with a minor in **Information Technology** at SUSS
 - 🔭 I completed my final year project in Nov 2021, predicting an occurrence of an event.
