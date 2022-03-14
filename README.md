@@ -2,7 +2,7 @@
 Hi there!👋 I am Diane! 🥎🏋🏽‍♀️☕️🍻 
 <h1/> 
 
-### I am ...
+### About Me ...
 - 🎒 A Final Year **Business Analytics** student with a minor in **Information Technology** at SUSS
 - 🔭 I completed my final year project in Nov 2021, predicting an occurrence of an event.
 - 🌱 I’m currently working on improving my `SQL` and `Python` skills
