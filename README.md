@@ -1,6 +1,5 @@
 <h1 align="center">
-Hi there!👋 I am Diane! 🥎🏋🏽‍♀️☕️🍻
-<h1/>
+Hi there!👋 I am Diane! 🥎🏋🏽‍♀️☕️🍻 <h1/>
 
 ### I am ...
 - 🎒 A Final Year **Business Analytics** student with a minor in **Information Technology** at SUSS
