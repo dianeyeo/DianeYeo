@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there! 👋 I am Diane! 🥎🏋🏽‍♀️☕️🍻
+Hi there!👋 I am Diane! 🥎🏋🏽‍♀️☕️🍻
 <h1/>
 
 <!--
