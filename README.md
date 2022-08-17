@@ -1,11 +1,10 @@
 <h1 align="center">
-Hi there!👋 I am Diane! 🥎🏋🏽‍♀️☕️🍻 
+Hi there!👋 I am Diane! 🥎🏋🏽‍♀️☕️😺
 </h1>
       
 ### About Me ...
 - 🎒 I'm a Final Year **Business Analytics** student with a minor in **Information Technology** at SUSS
-   - 💻 Currently working on Web Development Project (ICT239)
-- 🔭 I completed my final year project in Nov 2021, predicting an occurrence of an event.
+- 🔭 I completed my Capstone project in Nov 2021, predicting an occurrence of an event.
 - 🌱 I’m currently working on improving my `SQL` and `Python` skills
 - 📫 How to reach me: [🌐 LinkedIn](https://www.linkedin.com/in/yeo-diane-suting/) | [📧 E-mail](ystdiane26@gmail.com)
 
