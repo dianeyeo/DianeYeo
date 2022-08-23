@@ -3,7 +3,7 @@ Hi there!👋 I am Diane! 🥎🏋🏽‍♀️☕️😺
 </h1>
       
 ### About Me ...
-- 🎒 I'm a Final Year **Business Analytics** student with a minor in **Information Technology** at SUSS
+- 🎒 I'm a SUSS **Business Analytics** Graduate with a minor in **Information Technology**
 - 🔭 I completed my Capstone project in Nov 2021, predicting an occurrence of an event.
 - 🌱 I’m currently working on improving my `SQL` and `Python` skills
 - 📫 How to reach me: [🌐 LinkedIn](https://www.linkedin.com/in/yeo-diane-suting/) | [📧 E-mail](ystdiane26@gmail.com)
